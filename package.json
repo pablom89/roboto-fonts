@@ -1,6 +1,6 @@
 {
-  "name": "roboto-font",
-  "description": "Roboto fonts",
+  "name": "roboto-font for pdfmake",
+  "description": "Roboto fonts for pdfmake",
   "version": "0.1.0",
   "keywords": ["font", "roboto", "fontrobot", "font", "bootstrap"],
   "bugs": {
